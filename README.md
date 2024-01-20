@@ -1,4 +1,3 @@
-```markdown
 # Frontend Mentor - Página de inicio de noticias
 
 ![Vista previa del diseño para el desafío de codificación de la página de inicio de noticias](./design/desktop-preview.jpg)
@@ -98,4 +97,3 @@ Este desafío es completamente gratuito. Compártelo con cualquier persona a la 
 
 Ver video
 https://www.youtube.com/watch?v=UMVb8b_VJwo
-```
